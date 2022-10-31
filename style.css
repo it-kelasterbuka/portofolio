@@ -1,0 +1,19 @@
+.section {
+	padding-top: 3rem;
+}
+
+.jumbotron{
+	background-color: #20B2AA;
+	height: 650px;
+}
+
+
+.jumbotron h1{
+	color: #FFF;
+	font-size: 30px;
+}
+
+.jumbotron p{
+	color: #FFF;
+	font-size: 20px;
+}
